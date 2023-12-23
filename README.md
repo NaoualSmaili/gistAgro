@@ -6,7 +6,7 @@ In this repository, we proudly present a comprehensive ontology that seamlessly 
 
 ### Highlights of Our Repository:
 - **Merging Diverse Ontologies:** We've meticulously combined ontologies from various smart farming subdomains, achieving an encompassing and holistic perspective.
-- **Unified Knowledge Base:** This repository serves as a platform for knowledge sharing and collaboration within the smart farming community.
+- **Unified Knowledge Base:** This ontology facilitates knowledge sharing and collaboration within the smart farming community.
 - **Advancing Smart Farming:** Our unified ontology fosters innovation, research, and practical applications, contributing significantly to the advancement of smart farming.
 
 ### Why is This Repository Important?
