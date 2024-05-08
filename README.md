@@ -57,6 +57,10 @@ Dive into our repository and discover a world where knowledge unites, innovation
 
 This ontology is distributed under the GNU General Public License. See the LICENSE file for details.
 
+## Publications
+
+Soon.
+
 ## Acknowledgments
 
 We extend our gratitude to every contributor who has enriched this repository by sharing their developed ontologies.
